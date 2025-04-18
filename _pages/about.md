@@ -16,11 +16,11 @@ redirect_from:
 - None
 
 ### 2024
-- Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024). *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China*. **Remote Sensing**, 16(12), 2168. [PDF](/assets/Atmospheric correction for HY 1C CZI images using neural network in western Pacific region.pdf)
+- Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024). *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China*. **Remote Sensing**, 16(12), 2168.
 
-- Lv, G., Li, X., Fang, L., Peng, Y., Zhang, C., Yao, J., Ren, S., Chen, J., **Men, J.**, Zhang, Q., Wang, G., & Wang, Q. (2024). *Disentangling the influential factors driving NPP decrease in Shandong Province: An analysis from time series evaluation using MODIS and CASA model*. **Remote Sensing**, 16(11), 1966. [PDF](/assets/Atmospheric correction for HY 1C CZI images using neural network in western Pacific region.pdf)
+- Lv, G., Li, X., Fang, L., Peng, Y., Zhang, C., Yao, J., Ren, S., Chen, J., **Men, J.**, Zhang, Q., Wang, G., & Wang, Q. (2024). *Disentangling the influential factors driving NPP decrease in Shandong Province: An analysis from time series evaluation using MODIS and CASA model*. **Remote Sensing**, 16(11), 1966.
 
-- Wang, W., Chen, J., Fang, L., Yinglan, A., Ren, S., **Men, J.**, & Wang, G. (2024). *Remote sensing retrieval and driving analysis of phytoplankton density in the large storage freshwater lake: A study based on random forest and Landsat-8 OLI*. **Journal of Contaminant Hydrology**, 261, 104304. [PDF](/assets/Atmospheric correction for HY 1C CZI images using neural network in western Pacific region.pdf)
+- Wang, W., Chen, J., Fang, L., Yinglan, A., Ren, S., **Men, J.**, & Wang, G. (2024). *Remote sensing retrieval and driving analysis of phytoplankton density in the large storage freshwater lake: A study based on random forest and Landsat-8 OLI*. **Journal of Contaminant Hydrology**, 261, 104304.
 
 ### 2023
 - **Men, J.**, Feng, L., Chen, X., & Tiao, L.* (2023). *Atmospheric correction under cloud edge effects for Geostationary Ocean Color Imager through deep learning*. **ISPRS Journal of Photogrammetry and Remote Sensing**, 201, 38–53. [PDF](/assets/2023-Atmospheric correction under cloud edge effects for Geostationary Ocean Color Imager through deep learning.pdf)
