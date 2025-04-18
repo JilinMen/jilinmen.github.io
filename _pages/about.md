@@ -24,7 +24,7 @@
 ### 2022
 - **Men, J.**, Tian, L., Zhao, D., Wei, J., & Feng, L. (2022). *Development of a deep learning-based atmospheric correction algorithm for oligotrophic oceans*. **IEEE Transactions on Geoscience and Remote Sensing**, 60, 1–19.
 
-- **Men, J.**, Liu, J., Xia, G., Yue, T., Tong, R., & Tian, L.* (2022). *Atmospheric correction for HY-1C CZI images using neural network in western Pacific region*. **Geo-spatial Information Science**, 25(3), 476–488.
+- **Men, J.**, Liu, J., Xia, G., Yue, T., Tong, R., & Tian, L.* (2022). *Atmospheric correction for HY-1C CZI images using neural network in western Pacific region*. **Geo-spatial Information Science**, 25(3), 476–488. [PDF](/assets/Atmospheric correction for HY 1C CZI images using neural network in western Pacific region.pdf)
 
 ---
 
