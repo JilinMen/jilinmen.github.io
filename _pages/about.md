@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "News"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm a postdoc at the University of Alabama. My research interests includes remote sensing application on aquatic environment, atmospheric correction, and water quality parameters monitoring.
 
 ## News
 
@@ -13,7 +14,7 @@ redirect_from:
 ## Publications
 
 ### 2025
-- None
+
 
 ### 2024
 - Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024). *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China*. **Remote Sensing**, 16(12), 2168.
