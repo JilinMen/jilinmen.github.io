@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aquatic remote sensing"
+title                    : "iWater"
 title_separator          : "-"
-name                     : &name "MJL"
+name                     : &name "Jilin Men"
 description              : &description "personal description"
 url                      : https://jilinmen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
