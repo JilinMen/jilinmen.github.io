@@ -1,19 +1,15 @@
 ---
 permalink: /
 title: "Biography"
-author_profile: False
+author_profile: True
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a postdoc at the University of Alabama. My research interests includes remote sensing application on aquatic environment, atmospheric correction, and water quality parameters monitoring.
-
-## News
+I'm a postdoc at the University of Alabama. My research interest is water color remote sensing.
 
 
 ## Publications
-
-### 2025
 
 
 ### 2024
