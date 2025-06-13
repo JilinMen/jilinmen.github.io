@@ -52,7 +52,7 @@ I am currently a Postdoctoral Researcher and Visiting Scientist at the Universit
 
 - *Remote Sensing of Environment*  
 - *IEEE Transactions on Geoscience and Remote Sensing*
-- *Journal of Remote Sensing
+- *Journal of Remote Sensing*
 - *Ecological Informatics*  
 - *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  
 - *Optics Express*
