@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a postdoc at the University of Alabama. My research interests include water quality variability under climate change, multi-source observation integration and aquatic environment monitoring, cloud computation and rapid water quality mapping, and big data analytics and deep learning.
+I'm currently working as a Post-Doc/Visiting Scientist at the University of Alabama. My research interests include water quality variability under climate change, multi-source observation integration and aquatic environment monitoring, cloud computation and rapid water quality mapping, and big data analytics and deep learning. I obtained my bachlor and master degrees from China University of Geosciences (Wuhan) in 2016 and 2019 and Phd degree from Wuhan University in 2023.
 
 ## Publications
 ### 2025
@@ -51,7 +51,12 @@ I'm a postdoc at the University of Alabama. My research interests include water 
 ## Reviewer Service
 
 - *Remote Sensing of Environment*  
-- *IEEE Transactions on Geoscience and Remote Sensing*  
+- *IEEE Transactions on Geoscience and Remote Sensing*
+- *Journal of Remote Sensing
 - *Ecological Informatics*  
 - *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  
 - *Optics Express*
+
+## Guest Editor
+- Remote Sensing in Water Quality Monitoring, Remote Sensing, 2025
+- The Role of Land Policy in Shaping Rural Development Outcomes, Land, 2025
