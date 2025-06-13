@@ -10,7 +10,7 @@ I am currently a Postdoctoral Researcher at the University of Alabama. My resear
 
 ## Publications
 ### 2025
-- Yao, T., Zhan, T., **Men, J.***, Zhang, L., & Tian, L.* (2025). *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system*. **Geo-Spatial Information Science**. https://doi.org/10.1080/10095020.2025.2514177.
+- Yao, T., Zhan, T., **Men, J.**\*, Zhang, L., & Tian, L.* (2025). *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system*. **Geo-Spatial Information Science**. https://doi.org/10.1080/10095020.2025.2514177.
 
 ### 2024
 - Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024). *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China*. **Remote Sensing**, 16(12), 2168.
@@ -24,10 +24,10 @@ I am currently a Postdoctoral Researcher at the University of Alabama. My resear
 
 - **Men, J.**, Chen, X., Hou, X., Tian, J., Song, Q., & Tian, L.* (2023). *OC_3S: An optical classification and spectral scoring system for global waters using UV-visible remote sensing reflectance*. **ISPRS Journal of Photogrammetry and Remote Sensing**, 200, 153–172. [PDF](/assets/Publications/2023-OC_3S An optical classification and spectral scoring system for global waters using UV-visible remote sensing reflectance.pdf) [Code](https://github.com/JilinMen/OC_3S)
 
-- **Men, J.**, Yao, T., Yang, C., et al. (2023). *A neural network-based atmospheric correction algorithm for GOCI imagery over coastal waters*. **IEEE Transactions on Geoscience and Remote Sensing**, 62, 1–16. [PDF](/assets/Publications/2023-A_Neural_Network-Based_Atmospheric_Correction_Algorithm_for_GOCI_Imagery_Over_Coastal_Waters.pdf)
+- **Men, J.**, Yao, T., Yang, C., Tian, L.* (2023). *A neural network-based atmospheric correction algorithm for GOCI imagery over coastal waters*. **IEEE Transactions on Geoscience and Remote Sensing**, 62, 1–16. [PDF](/assets/Publications/2023-A_Neural_Network-Based_Atmospheric_Correction_Algorithm_for_GOCI_Imagery_Over_Coastal_Waters.pdf)
 
 ### 2022
-- **Men, J.**, Tian, L., Zhao, D., Wei, J., & Feng, L. (2022). *Development of a deep learning-based atmospheric correction algorithm for oligotrophic oceans*. **IEEE Transactions on Geoscience and Remote Sensing**, 60, 1–19. [PDF](/assets/Publications/2022-Development of a deep learning-based atmospheric correction algorithm for oligotrophic oceans.pdf) [Code](https://github.com/JilinMen/Deep-learning-AC-for-open-ocean)
+- **Men, J.**, Tian, L.*, Zhao, D., Wei, J., & Feng, L.* (2022). *Development of a deep learning-based atmospheric correction algorithm for oligotrophic oceans*. **IEEE Transactions on Geoscience and Remote Sensing**, 60, 1–19. [PDF](/assets/Publications/2022-Development of a deep learning-based atmospheric correction algorithm for oligotrophic oceans.pdf) [Code](https://github.com/JilinMen/Deep-learning-AC-for-open-ocean)
 
 - **Men, J.**, Liu, J., Xia, G., Yue, T., Tong, R., & Tian, L.* (2022). *Atmospheric correction for HY-1C CZI images using neural network in western Pacific region*. **Geo-spatial Information Science**, 25(3), 476–488. [PDF](/assets/Publications/Atmospheric correction for HY 1C CZI images using neural network in western Pacific region.pdf)
 
