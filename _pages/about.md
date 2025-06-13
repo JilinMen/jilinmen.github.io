@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a postdoc at the University of Alabama. My research interest is water color remote sensing.
+I'm a postdoc at the University of Alabama. My research interests include water quality variability under climate change, multi-source observation integration and aquatic environment monitoring, cloud computation and rapid water quality mapping, and big data analytics and deep learning.
 
 ## Publications
-
+### 2025
+- Yao, T., Zhan, T., **Men, J.**, Zhang, L., & Tian, L.* (2025). *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system*. **Geo-Spatial Information Science**. https://doi.org/10.1080/10095020.2025.2514177.
 
 ### 2024
 - Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024). *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China*. **Remote Sensing**, 16(12), 2168.
@@ -33,6 +34,8 @@ I'm a postdoc at the University of Alabama. My research interest is water color 
 ---
 
 ## Presentations
+### 2025
+- *Quickly Mapping Water Quality Parameters with Google Earth Engine*. CIROH Developers Conference. Burlington, Vermont. May 27-30, 2025.
 
 ### 2024
 - *Evaluation of atmospherically corrected aquatic reflectance products from multispectral satellite data using global in-situ datasets and ocean color satellite observations.* AGU, Washington DC, USA. Dec. 12, 2024.
