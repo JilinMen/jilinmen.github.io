@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Researcher at the University of Alabama. My research focuses on water quality variability in the context of climate change, integration of multi-source observations for aquatic environmental monitoring, cloud-based computation for rapid water quality mapping, and the application of big data analytics and deep learning. I received my bachelor's and master's degrees from China University of Geosciences (Wuhan) in 2016 and 2019, respectively, and earned my Ph.D. from Wuhan University in 2023.
+I am currently a Postdoctoral Researcher at the University of Alabama. I received my bachelor's and master's degrees from China University of Geosciences (Wuhan) in 2016 and 2019, respectively, and earned my Ph.D. from Wuhan University in 2023. My research focuses on water quality variability in the context of climate change, integration of multi-source observations for aquatic environmental monitoring, cloud-based computation for rapid water quality mapping, and the application of big data analytics and deep learning. 
 
 ## Publications
 ### 2025
