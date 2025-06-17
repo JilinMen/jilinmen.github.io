@@ -10,7 +10,7 @@ I am currently a Postdoctoral Researcher at the University of Alabama, supervise
 
 ## Publications
 ### 2025
-- Yao, T., Zhan, T., **Men, J.**\*, Zhang, L., & Tian, L.* (2025). *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system*. **Geo-Spatial Information Science**. https://doi.org/10.1080/10095020.2025.2514177.
+- Yao, T., Zhan, T., **Men, J.**\*, Zhang, L., & Tian, L.* (2025). *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system*. **Geo-Spatial Information Science**. [DOI](https://doi.org/10.1080/10095020.2025.2514177).
 
 ### 2024
 - Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024). *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China*. **Remote Sensing**, 16(12), 2168.
