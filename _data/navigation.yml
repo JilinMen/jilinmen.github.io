@@ -6,10 +6,10 @@
 
 main:
   - title: "Google Earth Engine"
-    url: /GEE/
+    url: /Map/
 
-  - title: "Drone"
-    url: /Drone/    
+  # - title: "Drone"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
