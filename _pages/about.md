@@ -12,7 +12,7 @@ I am currently a Postdoctoral Researcher at the University of Alabama, supervise
 - **2025.6.15-2025.6.21** We finished the water quality survey at Saginaw Bay of Lake Huron
 - **2025.5.28** Our reserach "Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system" has been accepted by Geo-Spatial Information Science
 - **2025.5.28** Presented our GEE water quality tool at the CIROH Developers Conference 
-
+---
 ## Publications
 ### 2025
 - Chen X., Zhang L., **Men J**., Sun X., Tian L., Li W., Zhao H. *An Optimal Strategy for Applying Combined Atmospheric Correction Approaches to Sentinel-2 MSI over Inland and Coastal Waters*. **IEEE Transactions on Geoscience and Remote Sensing**. [DOI](https://doi.org/10.1109/TGRS.2025.3583314)
@@ -53,6 +53,8 @@ I am currently a Postdoctoral Researcher at the University of Alabama, supervise
 - *Atmospheric correction using deep learning for oceanic waters.* Graduate Forum on Ocean Technology, Zhanjiang, China. Dec. 14–15, 2022.
 
 ---
+## Tools
+- Water quality mapping with Google Earth Engine [LINK](https://waterqualitymapping-oupspbbfgkngeuze9jztcc.streamlit.app/)
 
 ## Reviewer Service
 
@@ -62,6 +64,8 @@ I am currently a Postdoctoral Researcher at the University of Alabama, supervise
 - *Ecological Informatics*  
 - *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*  
 - *Optics Express*
+
+---
 
 ## Guest Editor
 - Remote Sensing in Water Quality Monitoring, Remote Sensing, 2025
