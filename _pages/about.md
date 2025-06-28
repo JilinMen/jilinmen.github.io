@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 I am currently a Postdoctoral Researcher at the University of Alabama, supervised by [Dr. Hongxing Liu](https://geography.ua.edu/people/hongxing-liu/). I received my bachelor's and master's degrees from China University of Geosciences (Wuhan) in 2016 and 2019, respectively, and earned my Ph.D. from Wuhan University in 2023 , under the supervision of [Dr. Liqiao Tian](http://www.lmars.whu.edu.cn/prof_web/tianliqiao/researchTeam.html) and [Dr. Lian Feng](https://garslab.com/?page_id=8&lang=zh-hans). My research focuses on water quality variability in the context of climate change, integration of multi-source observations for aquatic environmental monitoring, cloud-based computation for rapid water quality mapping, and the application of big data analytics and deep learning. 
+## News
+- 2025.6.23 Our paper "An Optimal Strategy for Applying Combined Atmospheric Correction Approaches to Sentinel-2 MSI over Inland and Coastal Waters" has been published on IEEE Transactions on Geoscience and Remote Sensing
+- 2025.6.15-2025.6.21 We finished the water quality survey at Saginaw Bay of Lake Huron
+- 2025.5.28 Our reserach "Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system" has been accepted by Geo-Spatial Information Science
 
 ## Publications
 ### 2025
-- Yao, T., Zhan, T., **Men, J.**\*, Zhang, L., & Tian, L.* (2025). *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system*. **Geo-Spatial Information Science**. [DOI](https://doi.org/10.1080/10095020.2025.2514177).
+- Chen X., Zhang L., **Men J**., Sun X., Tian L., Li W., Zhao H. *An Optimal Strategy for Applying Combined Atmospheric Correction Approaches to Sentinel-2 MSI over Inland and Coastal Waters*. **IEEE Transactions on Geoscience and Remote Sensing**. [DOI](https://doi.org/10.1109/TGRS.2025.3583314)
+- Yao, T., Zhan, T., **Men, J.**\*, Zhang, L., & Tian, L.* (2025). *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a Neural network and water classification system*. **Geo-Spatial Information Science**. [DOI](https://doi.org/10.1080/10095020.2025.2514177)
 
 ### 2024
 - Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024). *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China*. **Remote Sensing**, 16(12), 2168.
