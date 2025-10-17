@@ -11,6 +11,7 @@ I am currently a Postdoctoral Researcher at The University of Alabama, supervise
 ---
 
 ## News
+- **2025.10.3** We successfully conducted water quality field trips at Mobile Bay!
 - **2025.7.28** We finished the training about Global-RSWQmonitor for NASA SERVIR team in Huntsvill, AL, which can be accessed via [link](https://watersensing-water-quality-monitoring-pro.hf.space/voila/render/Global-RSWQmonitor.ipynb?). 
 - **2025.6.23** Our paper "An Optimal Strategy for Applying Combined Atmospheric Correction Approaches to Sentinel-2 MSI over Inland and Coastal Waters" was published on IEEE Transactions on Geoscience and Remote Sensing
 - **2025.6.15-2025.6.21** We finished the water quality survey at Saginaw Bay of Lake Huron
