@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the University of Alabama, supervised by Dr. [Hongxing Liu](https://geography.ua.edu/people/hongxing-liu/). I received my bachelor's and master's degrees from China University of Geosciences (Wuhan) in 2016 and 2019, respectively, and earned my Ph.D. from Wuhan University in 2023 under the supervision of Dr. [Liqiao Tian](http://www.lmars.whu.edu.cn/prof_web/tianliqiao/researchTeam.html) and Dr. [Lian Feng](https://garslab.com/?page_id=8&lang=zh-hans). 
+I am currently a Postdoctoral Researcher at **The University of Alabama**, supervised by Dr. [Hongxing Liu](https://geography.ua.edu/people/hongxing-liu/). I received my bachelor's and master's degrees from **China University of Geosciences (Wuhan)** in 2016 and 2019, respectively, and earned my Ph.D. from **Wuhan University** in 2023 under the supervision of Dr. [Liqiao Tian](http://www.lmars.whu.edu.cn/prof_web/tianliqiao/researchTeam.html) and Dr. [Lian Feng](https://garslab.com/?page_id=8&lang=zh-hans). 
 
 My research focuses on water quality variability in the context of climate change, the integration of multi-source observations for aquatic environmental monitoring, cloud-based computation for rapid water quality mapping, and the application of big data analytics and deep learning.
 
