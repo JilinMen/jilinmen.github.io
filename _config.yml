@@ -28,7 +28,7 @@ author:
   pronouns         : "he/his"  
   bio              : "Post-Doc / Visiting Scientist"
   location         : "Tuscaloosa, AL, USA"
-  employer         : "THe University of Alabama"
+  employer         : "The University of Alabama"
   uri              : # URL
   email            : "jilin.men@outlook.com" 
 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6973-2520"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
