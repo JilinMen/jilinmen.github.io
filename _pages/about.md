@@ -66,7 +66,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Conference paper
+## Conference paper {#conference}
 - **Men, J.**, Liu, H., Miliutina, E., Wang, L., Lu, Y., & Su, H. (2024).  
   *Evaluation of atmospherically corrected aquatic reflectance products from multispectral satellite data using global in-situ datasets and ocean color satellite observations.*  
   Presented at the American Geophysical Union (AGU) Fall Meeting, Washington, D.C., USA, December 9–13, 2024.
@@ -89,7 +89,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Workshops/Training {#workshop}
+## Workshops/Training {#training}
 - Global‑RSWQmonitor (NASA Water Security Team Closeout Training and Exchange, Jul 28, 2025)
 - MicaSense multispectral data processing with Pix4Dmapper (USGS Flow Academy, Jul 2, 2025)
 - River drone multispectral acquisition with ASV (USGS Flow Academy, Jun 25, 2025)
