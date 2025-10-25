@@ -114,6 +114,7 @@ My research focuses on water quality variability in the context of climate chang
 - Journal of Remote Sensing
 - Ecological Informatics
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE Geoscience and Remote Sensing Letters
 - Optics Express
 - Water Environment Research
 
