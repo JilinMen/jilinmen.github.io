@@ -12,7 +12,7 @@ I am currently a Postdoctoral Researcher at **The University of Alabama**, super
 
 My research focuses on water quality variability in the context of climate change, the integration of multi-source observations for aquatic environmental monitoring, cloud-based computation for rapid water quality mapping, and the application of big data analytics and deep learning.
 
-## Research {#research}
+## RESEARCH {#research}
 ### **2025**
 - Chen, X., Zhang, L., **Men, J.**, Sun, X., Tian, L., Li, W., & Zhao, H. (2025).  
   *Developing a combined atmospheric correction algorithm for Sentinel-2 MSI over inland and coastal waters.*  
@@ -67,7 +67,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Conference paper {#conference}
+## CONFERENCE PAPER {#conference}
 - **Men, J.**, Liu, H., Miliutina, E., Wang, L., Lu, Y., & Su, H. (2024).  
   *Evaluation of atmospherically corrected aquatic reflectance products from multispectral satellite data using global in-situ datasets and ocean color satellite observations.*  
   Presented at the American Geophysical Union (AGU) Fall Meeting, Washington, D.C., USA, December 9–13, 2024.
@@ -82,7 +82,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Presentation {#presentation}
+## PRESENTATION {#presentation}
 - 2025 — *Quickly Mapping Water Quality Parameters with Google Earth Engine.* CIROH Developers Conference, Burlington, VT, May 27‑30, 2025.
 - 2024 — *Evaluation of atmospherically corrected aquatic reflectance products...* AGU, Washington DC, Dec. 9‑13, 2024.
 - 2023 — *Deep learning atmospheric correction for ocean color remote sensing.* Wuhan, China.
@@ -90,7 +90,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Workshops/Training {#training}
+## WORKSHOPS/TRAINING {#training}
 - Global‑RSWQmonitor (NASA Water Security Team Closeout Training and Exchange, Jul 28, 2025)
 - MicaSense multispectral data processing with Pix4Dmapper (USGS Flow Academy, Jul 2, 2025)
 - River drone multispectral acquisition with ASV (USGS Flow Academy, Jun 25, 2025)
@@ -98,7 +98,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Honors/Awards
+## HONORS/AWARDS
 - **2023** — *First Prize, Academic Innovation Award*, Wuhan University  
 - **2022** — *Academic Merit Scholarship*, Wuhan University  
 - **2019** — *Excellent Graduation Thesis*, China University of Geosciences  
@@ -107,7 +107,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Reviewer services
+## REVIEWER SERVICES
 - Remote Sensing of Environment
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - IEEE Transactions on Geoscience and Remote Sensing 
@@ -120,13 +120,13 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## Guest Editor
+## GUEST EDITOR
 - Remote Sensing in Water Quality Monitoring, *Remote Sensing*, 2025
 - The Role of Land Policy in Shaping Rural Development Outcomes, *Land*, 2025
 
 ---
 
-### Visitor Map
+### VISITOR MAP
 <div style="text-align:left; margin-top: 1rem;">
   <script type="text/javascript" id="clustrmaps"
           src="//clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=a">
