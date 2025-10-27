@@ -117,6 +117,7 @@ My research focuses on water quality variability in the context of climate chang
 - IEEE Geoscience and Remote Sensing Letters
 - Optics Express
 - Water Environment Research
+- Sensors
 
 ---
 
