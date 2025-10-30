@@ -14,6 +14,11 @@ My research focuses on water quality variability in the context of climate chang
 
 ## RESEARCH {#research}
 ### **2025**
+- Hu, Y., Hou X., Men J., Feng L., Wang T. (2025)
+  *Global evaluation revealed large spectral reflectance uncertainties in Landsat 8 Collection 2 surface reflectance products for inland and coastal waters*
+  *ISPRS Journal of Photogrammetry and Remote Sensing*
+  [https://doi.org/10.1016/j.isprsjprs.2025.10.016](https://doi.org/10.1016/j.isprsjprs.2025.10.016)
+  
 - Chen, X., Zhang, L., **Men, J.**, Sun, X., Tian, L., Li, W., & Zhao, H. (2025).  
   *Developing a combined atmospheric correction algorithm for Sentinel-2 MSI over inland and coastal waters.*  
   *IEEE Transactions on Geoscience and Remote Sensing.*  
