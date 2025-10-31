@@ -16,17 +16,17 @@ My research focuses on water quality variability in the context of climate chang
 ### **2025**
 - Hu, Y., Hou X., **Men J.**, Feng L., Wang T. (2025)
   *Global evaluation revealed large spectral reflectance uncertainties in Landsat 8 Collection 2 surface reflectance products for inland and coastal waters.*
-  *ISPRS Journal of Photogrammetry and Remote Sensing.*
+  *ISPRS Journal of Photogrammetry and Remote Sensing*.
   [https://doi.org/10.1016/j.isprsjprs.2025.10.016](https://doi.org/10.1016/j.isprsjprs.2025.10.016)
   
 - Chen, X., Zhang, L., **Men, J.**, Sun, X., Tian, L., Li, W., & Zhao, H. (2025).  
   *Developing a combined atmospheric correction algorithm for Sentinel-2 MSI over inland and coastal waters.*  
-  *IEEE Transactions on Geoscience and Remote Sensing.*  
+  *IEEE Transactions on Geoscience and Remote Sensing*.  
   [https://doi.org/10.1109/TGRS.2025.3583314](https://doi.org/10.1109/TGRS.2025.3583314)
 
 - Yao, T., Zhan, T., **Men, J.\***, Zhang, L., & Tian, L.\* (2025).  
   *Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a neural network and water classification system.*  
-  *Geo-Spatial Information Science.*  
+  *Geo-Spatial Information Science*.  
   [https://doi.org/10.1080/10095020.2025.2514177](https://doi.org/10.1080/10095020.2025.2514177)
 
 ---
@@ -35,40 +35,48 @@ My research focuses on water quality variability in the context of climate chang
 - Xie, G., Bai, X., Peng, Y., Li, Y., Zhang, C., Liu, Y., Liang, J., Fang, L., Chen, J., **Men, J.**, Wang, X., Wang, G., Wang, Q., & Ren, S. (2024).  
   *Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China.*  
   *Remote Sensing, 16*(12), 2168.
+  [https://doi.org/10.3390/rs16122168](https://doi.org/10.3390/rs16122168)
 
 - Lv, G., Li, X., Fang, L., Peng, Y., Zhang, C., Yao, J., Ren, S., Chen, J., **Men, J.**, Zhang, Q., Wang, G., & Wang, Q. (2024).  
   *Disentangling the influential factors driving NPP decrease in Shandong Province: An analysis from time-series evaluation using MODIS and CASA model.*  
-  *Remote Sensing, 16*(11), 1966.
+  *Remote Sensing*, 16(11), 1966.
+  [https://doi.org/10.3390/rs16111966](https://doi.org/10.3390/rs16111966)
 
 - Wang, W., Chen, J., Fang, L., Yinglan, A., Ren, S., **Men, J.**, & Wang, G. (2024).  
   *Remote sensing retrieval and driving analysis of phytoplankton density in a large freshwater storage lake: A study based on random forest and Landsat-8 OLI.*  
-  *Journal of Contaminant Hydrology, 261*, 104304.
+  *Journal of Contaminant Hydrology*, 261, 104304.
+  [https://doi.org/10.1016/j.jconhyd.2024.104304](https://doi.org/10.1016/j.jconhyd.2024.104304)
 
 ---
 
 ### **2023**
 - **Men, J.**, Feng, L., Chen, X., & Tian, L.\* (2023).  
   *Atmospheric correction under cloud edge effects for Geostationary Ocean Color Imager through deep learning.*  
-  *ISPRS Journal of Photogrammetry and Remote Sensing, 201*, 38–53.
+  *ISPRS Journal of Photogrammetry and Remote Sensing*, 201, 38–53.
+  [https://doi.org/10.1016/j.isprsjprs.2023.05.023](https://doi.org/10.1016/j.isprsjprs.2023.05.023)
 
 - **Men, J.**, Chen, X., Hou, X., Tian, J., Song, Q., & Tian, L.\* (2023).  
   *OC\_3S: An optical classification and spectral scoring system for global waters using UV-visible remote sensing reflectance.*  
-  *ISPRS Journal of Photogrammetry and Remote Sensing, 200*, 153–172.
+  *ISPRS Journal of Photogrammetry and Remote Sensing*, 200, 153–172.
+  [https://doi.org/10.1016/j.isprsjprs.2023.05.017](https://doi.org/10.1016/j.isprsjprs.2023.05.017)
 
 - **Men, J.**, Yao, T., Yang, C., & Tian, L. (2023).  
   *A neural network-based atmospheric correction algorithm for GOCI imagery over coastal waters.*  
-  *IEEE Transactions on Geoscience and Remote Sensing, 62*, 1–16.
+  *IEEE Transactions on Geoscience and Remote Sensing*, 62, 1–16.
+  [https://doi.org/10.1109/TGRS.2023.3339619](https://doi.org/10.1109/TGRS.2023.3339619)
 
 ---
 
 ### **2022**
 - **Men, J.**, Tian, L., Zhao, D., Wei, J., & Feng, L. (2022).  
   *Development of a deep learning-based atmospheric correction algorithm for oligotrophic oceans.*  
-  *IEEE Transactions on Geoscience and Remote Sensing, 60*, 1–19.
+  *IEEE Transactions on Geoscience and Remote Sensing*, 60, 1–19.
+  [https://doi.org/10.1109/TGRS.2022.3215767](https://doi.org/10.1109/TGRS.2022.3215767)
 
 - **Men, J.**, Liu, J., Xia, G., Yue, T., Tong, R., & Tian, L.\* (2022).  
   *Atmospheric correction for HY-1C CZI images using neural network in the western Pacific region.*  
-  *Geo-Spatial Information Science, 25*(3), 476–488.
+  *Geo-Spatial Information Science*, 25(3), 476–488.
+  [https://doi.org/10.1080/10095020.2021.2009314](https://doi.org/10.1080/10095020.2021.2009314)
 
 ---
 
