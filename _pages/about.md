@@ -104,7 +104,7 @@ My research focuses on water quality variability in the context of climate chang
 ---
 
 ## WORKSHOPS/TRAINING {#training}
-- Global‑RSWQmonitor (NASA Water Security Team Closeout Training and Exchange, Jul 28, 2025)
+- Global‑RSWQmonitor: water quality mapping with google earth engine (NASA SERVIR project, Jul 28, 2025)
 - MicaSense multispectral data processing with Pix4Dmapper (USGS Flow Academy, Jul 2, 2025)
 - River drone multispectral acquisition with ASV (USGS Flow Academy, Jun 25, 2025)
 - River bathymetry and flow velocity with drone & HyCAT (USGS Flow Academy, Jun 24, 2025)
