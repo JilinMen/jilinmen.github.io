@@ -125,6 +125,7 @@ My research focuses on water quality variability in the context of climate chang
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - IEEE Transactions on Geoscience and Remote Sensing 
 - Journal of Remote Sensing
+- remote sensing
 - Ecological Informatics
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - IEEE Geoscience and Remote Sensing Letters
