@@ -81,6 +81,26 @@ My research focuses on water quality variability in the context of climate chang
 ---
 
 ## CONFERENCE PAPER {#conference}
+- **Men, J.**, Liu, H., Miliutina, E., Wang, L., Lu, Y., Tian, D., & Pu, Y. (2025).  
+  *Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine.*  
+  Presented at the American Geophysical Union (AGU) Fall Meeting, New Orleans, LA, USA, December 15–19, 2025.
+
+- Miliutina, E., Liu, H., **Men, J.**, Shu, S., & Beck, R. (2025).  
+  *Spatiotemporal dynamics of water quality and trophic state of the African Great Lakes using Sentinel-3 OLCI observations.*  
+  Presented at the American Geophysical Union (AGU) Fall Meeting, New Orleans, LA, USA, December 15–19, 2025.
+
+- Premsagar, A., Liu, H., Miliutina, E., **Men, J.**, Lu, Y., Palaparthi, A., Mandal, T., Tian, D., & Pu, Y. (2025).  
+  *Evaluating the generalizability and transferability of water quality remote sensing models calibrated with drone-based hyperspectral imagery and dense in situ measurements from an autonomous surface vehicle.*  
+  Presented at the American Geophysical Union (AGU) Annual Meeting, New Orleans, LA, USA, December 15–19, 2025.
+
+- Lu, Y., Liu, H., Chen, S., Miliutina, E., Premsagar, A., Xu, M., Su, H., & **Men, J**. (2025).  
+  *Monitoring dynamic shifts in dissolved organic matter (DOM) using satellite remote sensing at a large river confluence.*  
+  Presented at the American Geophysical Union (AGU) Annual Meeting, New Orleans, LA, USA, December 15–19, 2025.
+
+- Su, H., Liu, H., Wang, L., Miliutina, E., **Men, J.**, Tian, D., Lu, Y., Shu, S., Beck, R. A., & Premsagar, A. (2025).  
+  *Streamlining satellite-based water quality assessment: The RS-WaterQuality Mapper toolbox for QGIS.*  
+  Presented at the American Geophysical Union (AGU) Fall Meeting, New Orleans, LA, USA, December 15–19, 2025.
+
 - **Men, J.**, Liu, H., Miliutina, E., Wang, L., Lu, Y., & Su, H. (2024).  
   *Evaluation of atmospherically corrected aquatic reflectance products from multispectral satellite data using global in-situ datasets and ocean color satellite observations.*  
   Presented at the American Geophysical Union (AGU) Fall Meeting, Washington, D.C., USA, December 9–13, 2024.
@@ -96,6 +116,7 @@ My research focuses on water quality variability in the context of climate chang
 ---
 
 ## PRESENTATION {#presentation}
+- 2025 - *Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine.* AGU, New Orleans, LA, Dec. 15‑19, 2024.
 - 2025 — *Quickly Mapping Water Quality Parameters with Google Earth Engine.* CIROH Developers Conference, Burlington, VT, May 27‑30, 2025.
 - 2024 — *Evaluation of atmospherically corrected aquatic reflectance products...* AGU, Washington DC, Dec. 9‑13, 2024.
 - 2023 — *Deep learning atmospheric correction for ocean color remote sensing.* Wuhan, China.
