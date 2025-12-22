@@ -116,7 +116,7 @@ My research focuses on water quality variability in the context of climate chang
 ---
 
 ## PRESENTATION {#presentation}
-- 2025 - *Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine.* AGU, New Orleans, LA, Dec. 15‑19, 2024.
+- 2025 - *Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine.* AGU, New Orleans, LA, Dec. 15‑19, 2025.
 - 2025 — *Quickly Mapping Water Quality Parameters with Google Earth Engine.* CIROH Developers Conference, Burlington, VT, May 27‑30, 2025.
 - 2024 — *Evaluation of atmospherically corrected aquatic reflectance products...* AGU, Washington DC, Dec. 9‑13, 2024.
 - 2023 — *Deep learning atmospheric correction for ocean color remote sensing.* Wuhan, China.
