@@ -8,13 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
+
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "JILIN MEN"
-=======
-site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
->>>>>>> upstream/master
+
 title_separator          : "-"
 name                     : &name "Jilin Men"
 description              : &description "Jilin's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -45,12 +42,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6973-2520"
   semantic         : # URL
-<<<<<<< HEAD
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-=======
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
->>>>>>> upstream/master
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
