@@ -10,9 +10,14 @@ redirect_from:
 
 I am currently a Postdoctoral Researcher at **The University of Alabama**, supervised by Dr. [Hongxing Liu](https://geography.ua.edu/people/hongxing-liu/). I received my bachelor's and master's degrees from **China University of Geosciences (Wuhan)** in 2016 and 2019, respectively, and earned my Ph.D. from **Wuhan University** in 2023 under the supervision of Dr. [Liqiao Tian](http://www.lmars.whu.edu.cn/prof_web/tianliqiao/researchTeam.html) and Dr. [Lian Feng](https://garslab.com/?page_id=8&lang=zh-hans). 
 
-My research focuses on water quality variability in the context of climate change, the integration of multi-source observations for aquatic environmental monitoring, cloud-based computation for rapid water quality mapping, and the application of big data analytics and deep learning.
+My research focuses on water quality remote sensing, cloud enabled detection of water quality anomalies, drinking water security assessment, eutrophication monitoring and prediction and multi  and hyperspectral satellite/drone remote sensing.
 
 ## RESEARCH {#research}
+### **2026**
+- Yang, C., Chen, J., Wang, G., Ren, S., Peng, Y., Li, Y., **Men J.**, et al. (2026).
+  *Remote sensing-enabled machine learning for modeling turbidity in regulating lakes and reservoirs across inter-basin under Google Earth Engine.*
+  *Journal of Hydrology: Regional Studies, 64, 103150.*
+  [https://doi.org/10.1016/j.ejrh.2026.103150](https://doi.org/10.1016/j.ejrh.2026.103150). 
 ### **2025**
 - Hu, Y., Hou X., **Men J.**, Feng L., Wang T. (2025)
   *Global evaluation revealed large spectral reflectance uncertainties in Landsat 8 Collection 2 surface reflectance products for inland and coastal waters.*
@@ -80,7 +85,7 @@ My research focuses on water quality variability in the context of climate chang
 
 ---
 
-## CONFERENCE PAPER {#conference}
+## CONFERENCE PRESENTATIONS {#conference}
 - **Men, J.**, Liu, H., Miliutina, E., Wang, L., Lu, Y., Tian, D., & Pu, Y. (2025).  
   *Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine.*  
   Presented at the American Geophysical Union (AGU) Fall Meeting, New Orleans, LA, USA, December 15–19, 2025.
