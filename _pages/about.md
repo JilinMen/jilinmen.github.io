@@ -14,12 +14,18 @@ My research focuses on water quality remote sensing, cloud enabled detection of 
 
 ## RESEARCH {#research}
 ### **2026**
+- **Men J.**, Li W., Chen X., Feng L., Tian L., Sun X. (2026).
+  *Improving ocean color atmospheric correction near clouds with neural network.*
+  *IEEE Transactions on Geoscience and Remote Sensing.*
+  [https://doi.org/10.1109/TGRS.2026.3660269](https://doi.org/10.1109/TGRS.2026.3660269).
+  
 - Yang, C., Chen, J., Wang, G., Ren, S., Peng, Y., Li, Y., **Men J.**, et al. (2026).
   *Remote sensing-enabled machine learning for modeling turbidity in regulating lakes and reservoirs across inter-basin under Google Earth Engine.*
   *Journal of Hydrology: Regional Studies, 64, 103150.*
-  [https://doi.org/10.1016/j.ejrh.2026.103150](https://doi.org/10.1016/j.ejrh.2026.103150). 
+  [https://doi.org/10.1016/j.ejrh.2026.103150](https://doi.org/10.1016/j.ejrh.2026.103150).
+
 ### **2025**
-- Hu, Y., Hou X., **Men J.**, Feng L., Wang T. (2025)
+- Hu, Y., Hou X., **Men J.**, Feng L., Wang T. (2025).
   *Global evaluation revealed large spectral reflectance uncertainties in Landsat 8 Collection 2 surface reflectance products for inland and coastal waters.*
   *ISPRS Journal of Photogrammetry and Remote Sensing*.
   [https://doi.org/10.1016/j.isprsjprs.2025.10.016](https://doi.org/10.1016/j.isprsjprs.2025.10.016)
