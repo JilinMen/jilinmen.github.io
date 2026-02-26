@@ -375,11 +375,7 @@ I am currently a **Postdoctoral Researcher** at **The University of Alabama**, s
 ## <i class="fas fa-microphone-alt"></i> INVITED TALKS {#presentation}
 
 <ul class="conf-list">
-<li><span class="year-badge">2025</span> <em>Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine.</em> AGU, New Orleans, LA, Dec. 15–19, 2025.</li>
-<li><span class="year-badge">2025</span> <em>Quickly Mapping Water Quality Parameters with Google Earth Engine.</em> CIROH Developers Conference, Burlington, VT, May 27–30, 2025.</li>
-<li><span class="year-badge">2024</span> <em>Evaluation of atmospherically corrected aquatic reflectance products...</em> AGU, Washington DC, Dec. 9–13, 2024.</li>
-<li><span class="year-badge">2023</span> <em>Deep learning atmospheric correction for ocean color remote sensing.</em> Wuhan, China.</li>
-<li><span class="year-badge">2022</span> <em>Atmospheric correction using deep learning for oceanic waters.</em> Zhanjiang, China.</li>
+<li><span class="year-badge">2026</span> <em>Inland and water quality monitoring using remote sensing and physics-informed deep learning.</em> January 23, 2026. The Department of Geography and The Environment, The University of Alabama.</li>
 </ul>
 
 <hr class="section-divider">
@@ -452,7 +448,7 @@ I am currently a **Postdoctoral Researcher** at **The University of Alabama**, s
 <div class="visitor-map-section">
   <h3 style="margin-top: 0;"><i class="fas fa-globe-americas"></i> Visitor Map</h3>
   <script type="text/javascript" id="clustrmaps"
-          src="//clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=a">
+          src="//clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=300&t=tt">
   </script>
 </div>
 
