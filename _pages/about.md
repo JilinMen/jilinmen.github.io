@@ -27,6 +27,7 @@ I am currently a **Postdoctoral Researcher** at **The University of Alabama**, s
 <div class="news-section">
   <h3><i class="fas fa-bullhorn"></i> Recent News</h3>
   <ul>
+    <li><span class="news-date">[2026]</span> Invited talk: <em>Inland and water quality monitoring using remote sensing and physics-informed deep learning</em> at The University of Alabama.</li>
     <li><span class="news-date">[2026]</span> New paper on ocean color atmospheric correction published in <em>IEEE TGRS</em>!</li>
     <li><span class="news-date">[2025]</span> Presented at <strong>AGU Fall Meeting</strong> in New Orleans on cloud-based water quality mapping.</li>
     <li><span class="news-date">[2025]</span> Workshop on water quality mapping with GEE for NASA SERVIR project.</li>
