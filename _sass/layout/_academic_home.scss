@@ -75,7 +75,7 @@ body {
   font-size: 1rem;
 }
 
-#main:has(.sidebar) {
+#main {
   display: grid;
   grid-template-columns: 260px minmax(0, 1fr);
   gap: 2rem;
@@ -104,7 +104,7 @@ body {
   background: #ffffff;
 }
 
-#main:has(.sidebar) .page {
+.page {
   float: none !important;
   width: auto !important;
   padding: 0 !important;
@@ -535,7 +535,7 @@ html[data-theme="dark"] {
     margin-right: 0;
   }
 
-  #main:has(.sidebar) {
+  #main {
     grid-template-columns: 1fr;
     gap: 1.75rem;
     margin-top: 0;
