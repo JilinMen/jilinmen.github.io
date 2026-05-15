@@ -1,0 +1,163 @@
+kicker: "Welcome!"
+headline: "About me"
+summary: >
+  I am a **Postdoctoral Researcher** at **The University of Alabama**,
+  working with Dr. [Hongxing Liu](https://geography.ua.edu/people/hongxing-liu/).
+  My research develops remote sensing and machine learning methods for aquatic
+  environments, with an emphasis on atmospheric correction, water quality
+  retrieval, and scalable monitoring with satellite and cloud-computing systems.
+
+news:
+  - date: "2026"
+    text: "Our paper 'RS-WaterQuality Mapper: an open-source water quality remote sensing toolbox in QGIS' has been published on Earth Science Informatics."
+  - date: "2026"
+    text: "Invited talk: *Inland and water quality monitoring using remote sensing and physics-informed deep learning* at The University of Alabama."
+  - date: "2026"
+    text: "New paper on ocean color atmospheric correction published in *IEEE Transactions on Geoscience and Remote Sensing*."
+  - date: "2025"
+    text: "Presented cloud-based water quality mapping work at AGU Fall Meeting in New Orleans."
+  - date: "2025"
+    text: "Led a workshop on water quality mapping with Google Earth Engine for the NASA SERVIR project."
+  - date: "2025"
+    text: "Guest Editor for a *Remote Sensing* special issue on water quality monitoring."
+
+apps:
+  - name: "Global-RSWQmonitor"
+    description: "A cloud-based global water quality remote sensing platform powered by Google Earth Engine for rapid mapping with Landsat and Sentinel imagery."
+    url: "https://watersensing-water-quality-monitoring-pro.hf.space/voila/render/Global-RSWQmonitor.ipynb"
+  - name: "PIDL for Water Quality"
+    description: "A physics-informed deep learning tool for water quality parameter retrieval from remote sensing data."
+    url: "https://huggingface.co/spaces/WaterSensing/PIDL_for_Water_Quality"
+
+publications:
+  - year: "2026"
+    items:
+      - title: "RS-WaterQuality Mapper: an open-source water quality remote sensing toolbox in QGIS."
+        authors: "Haibin Su, Hongxing Liu, Lei Wang, Ekaterina Miliutina, Jilin Men, Dan Tian, Yuehan Lu, Song Shu, Richard Beck, Amanjit Premsagar"
+        venue: "Earth Science Informatics"
+        doi: "https://link.springer.com/article/10.1007/s12145-026-02090-1"
+      - title: "Remote sensing-enabled machine learning for modeling turbidity in regulating lakes and reservoirs across inter-basin under Google Earth Engine."
+        authors: "Yang C., Chen J., Wang G., Ren S., Peng Y., Li Y., Men J., et al."
+        venue: "Journal of Hydrology: Regional Studies, 64, 103150"
+        doi: "https://doi.org/10.1016/j.ejrh.2026.103150"
+      - title: "Improving ocean color atmospheric correction near clouds with neural network."
+        authors: "Men J., Li W., Chen X., Feng L., Tian L., Sun X."
+        venue: "IEEE Transactions on Geoscience and Remote Sensing"
+        doi: "https://doi.org/10.1109/TGRS.2026.3660269"
+      - title: "Remote sensing-enabled machine learning for modeling turbidity in regulating lakes and reservoirs across inter-basin under Google Earth Engine."
+        authors: "Yang C., Chen J., Wang G., Ren S., Peng Y., Li Y., Men J., et al."
+        venue: "Journal of Hydrology: Regional Studies, 64, 103150"
+        doi: "https://doi.org/10.1016/j.ejrh.2026.103150"
+  - year: "2025"
+    items:
+      - title: "Global evaluation revealed large spectral reflectance uncertainties in Landsat 8 Collection 2 surface reflectance products for inland and coastal waters."
+        authors: "Hu Y., Hou X., Men J., Feng L., Wang T."
+        venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
+        doi: "https://doi.org/10.1016/j.isprsjprs.2025.10.016"
+      - title: "Developing a combined atmospheric correction algorithm for Sentinel-2 MSI over inland and coastal waters."
+        authors: "Chen X., Zhang L., Men J., Sun X., Tian L., Li W., Zhao H."
+        venue: "IEEE Transactions on Geoscience and Remote Sensing"
+        doi: "https://doi.org/10.1109/TGRS.2025.3583314"
+      - title: "Enhancing downwelling diffuse attenuation coefficient retrieval at 490 nm through a neural network and water classification system."
+        authors: "Yao T., Zhan T., Men J., Zhang L., Tian L."
+        venue: "Geo-Spatial Information Science"
+        doi: "https://doi.org/10.1080/10095020.2025.2514177"
+        role: "Corresponding"
+        highlight: true
+  - year: "2024"
+    items:
+      - title: "Aquaculture ponds identification based on multi-feature combination strategy and machine learning from Landsat-5/8 in a typical inland lake of China."
+        authors: "Xie G., Bai X., Peng Y., Li Y., Zhang C., Liu Y., Liang J., Fang L., Chen J., Men J., et al."
+        venue: "Remote Sensing, 16(12), 2168"
+        doi: "https://doi.org/10.3390/rs16122168"
+      - title: "Disentangling the influential factors driving NPP decrease in Shandong Province: An analysis from time-series evaluation using MODIS and CASA model."
+        authors: "Lv G., Li X., Fang L., Peng Y., Zhang C., Yao J., Ren S., Chen J., Men J., et al."
+        venue: "Remote Sensing, 16(11), 1966"
+        doi: "https://doi.org/10.3390/rs16111966"
+      - title: "Remote sensing retrieval and driving analysis of phytoplankton density in a large freshwater storage lake."
+        authors: "Wang W., Chen J., Fang L., Yinglan A., Ren S., Men J., Wang G."
+        venue: "Journal of Contaminant Hydrology, 261, 104304"
+        doi: "https://doi.org/10.1016/j.jconhyd.2024.104304"
+  - year: "2023"
+    items:
+      - title: "Atmospheric correction under cloud edge effects for Geostationary Ocean Color Imager through deep learning."
+        authors: "Men J., Feng L., Chen X., Tian L."
+        venue: "ISPRS Journal of Photogrammetry and Remote Sensing, 201, 38-53"
+        doi: "https://doi.org/10.1016/j.isprsjprs.2023.05.023"
+        role: "1st Author"
+        highlight: true
+      - title: "OC_3S: An optical classification and spectral scoring system for global waters using UV-visible remote sensing reflectance."
+        authors: "Men J., Chen X., Hou X., Tian J., Song Q., Tian L."
+        venue: "ISPRS Journal of Photogrammetry and Remote Sensing, 200, 153-172"
+        doi: "https://doi.org/10.1016/j.isprsjprs.2023.05.017"
+        role: "1st Author"
+        highlight: true
+      - title: "A neural network-based atmospheric correction algorithm for GOCI imagery over coastal waters."
+        authors: "Men J., Yao T., Yang C., Tian L."
+        venue: "IEEE Transactions on Geoscience and Remote Sensing, 62, 1-16"
+        doi: "https://doi.org/10.1109/TGRS.2023.3339619"
+        role: "1st Author"
+        highlight: true
+  - year: "2022"
+    items:
+      - title: "Development of a deep learning-based atmospheric correction algorithm for oligotrophic oceans."
+        authors: "Men J., Tian L., Zhao D., Wei J., Feng L."
+        venue: "IEEE Transactions on Geoscience and Remote Sensing, 60, 1-19"
+        doi: "https://doi.org/10.1109/TGRS.2022.3215767"
+        role: "1st Author"
+        highlight: true
+      - title: "Atmospheric correction for HY-1C CZI images using neural network in the western Pacific region."
+        authors: "Men J., Liu J., Xia G., Yue T., Tong R., Tian L."
+        venue: "Geo-Spatial Information Science, 25(3), 476-488"
+        doi: "https://doi.org/10.1080/10095020.2021.2009314"
+        role: "1st Author"
+        highlight: true
+
+presentations:
+  - year: "2026"
+    text: "Invited talk, Inland and water quality monitoring using remote sensing and physics-informed deep learning, The University of Alabama."
+  - year: "2025"
+    text: "Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine, AGU Fall Meeting, New Orleans."
+  - year: "2024"
+    text: "Evaluation of atmospherically corrected aquatic reflectance products from multispectral satellite data, AGU Fall Meeting, Washington, D.C."
+
+training:
+  - date: "2025-07-28"
+    text: "Global-RSWQmonitor: water quality mapping with Google Earth Engine, NASA SERVIR project."
+  - date: "2025-07-02"
+    text: "MicaSense multispectral data processing with Pix4Dmapper, USGS Flow Academy."
+  - date: "2025-06-25"
+    text: "River drone multispectral acquisition with autonomous surface vehicle, USGS Flow Academy."
+  - date: "2025-06-24"
+    text: "River bathymetry and flow velocity with drone and HyCAT, USGS Flow Academy."
+
+honors:
+  - year: "2023"
+    text: "First Prize, Academic Innovation Award, Wuhan University."
+  - year: "2022"
+    text: "Academic Merit Scholarship, Wuhan University."
+  - year: "2019"
+    text: "Excellent Graduation Thesis, China University of Geosciences."
+  - year: "2018"
+    text: "National Scholarship, China University of Geosciences."
+  - year: "2016"
+    text: "Outstanding Postgraduate Student Cadre, China University of Geosciences."
+
+service:
+  reviewing:
+    - Remote Sensing of Environment
+    - ISPRS Journal of Photogrammetry and Remote Sensing
+    - IEEE Transactions on Geoscience and Remote Sensing
+    - Journal of Remote Sensing
+    - Remote Sensing
+    - Ecological Informatics
+    - IEEE JSTARS
+    - IEEE Geoscience and Remote Sensing Letters
+    - Optics Express
+    - Water Environment Research
+    - Sensors
+  guest_editor:
+    - year: "2025"
+      text: "Remote Sensing in Water Quality Monitoring, Remote Sensing."
+    - year: "2025"
+      text: "The Role of Land Policy in Shaping Rural Development Outcomes, Land."
