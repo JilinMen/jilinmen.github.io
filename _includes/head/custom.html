@@ -45,6 +45,35 @@
     background: transparent !important;
   }
 
+  .site-nav {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 1rem !important;
+  }
+
+  .site-nav__brand {
+    color: #203026 !important;
+    font-size: 1rem !important;
+    font-weight: 800 !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
+  }
+
+  .site-nav__links {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 1.05rem !important;
+    align-items: center !important;
+  }
+
+  .site-nav__links a {
+    color: #1f7a4d !important;
+    font-size: 0.86rem !important;
+    font-weight: 700 !important;
+    text-decoration: none !important;
+  }
+
   .greedy-nav button,
   .greedy-nav .hidden-links,
   #theme-toggle {
@@ -196,6 +225,16 @@
   }
 
   @media (max-width: 860px) {
+    .site-nav {
+      align-items: flex-start !important;
+      flex-direction: column !important;
+      gap: 0.55rem !important;
+    }
+
+    .site-nav__links {
+      gap: 0.75rem !important;
+    }
+
     .greedy-nav .visible-links {
       align-items: flex-start !important;
       flex-wrap: wrap !important;
