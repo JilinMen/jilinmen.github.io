@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% assign profile = site.data.profile %}
 
 <section class="home-section home-intro" id="about">
@@ -21,6 +20,7 @@ redirect_from:
 </section>
 
 {% if profile.news %}
+
 <section class="home-section" id="news">
   <div class="section-heading section-heading--center">
     <h2>News</h2>
@@ -38,16 +38,8 @@ redirect_from:
 {% endif %}
 
 {% if profile.publications %}
-<section class="home-section" id="research">
-  <div class="section-heading section-heading--center">
-    <h2>Research</h2>
-    <span class="section-rule" aria-hidden="true"></span>
-    {% if site.author.googlescholar %}
-      <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>
-    {% endif %}
-  </div>
 
-  <h3 class="subtle-heading">Selected Publications</h3>
+<h3 class="subtle-heading">Publications</h3>
   {% for group in profile.publications %}
     <h3 class="publication-year-heading">{{ group.year }}</h3>
     <div class="publication-list">
@@ -70,6 +62,7 @@ redirect_from:
 {% endif %}
 
 {% if profile.apps %}
+
 <section class="home-section" id="apps">
   <div class="section-heading section-heading--center">
     <h2>Apps & Tools</h2>
@@ -92,6 +85,7 @@ redirect_from:
 {% endif %}
 
 {% if profile.presentations %}
+
 <section class="home-section" id="presentations">
   <div class="section-heading section-heading--center">
     <h2>Conference Presentations</h2>
@@ -109,6 +103,7 @@ redirect_from:
 {% endif %}
 
 {% if profile.training %}
+
 <section class="home-section" id="training">
   <div class="section-heading section-heading--center">
     <h2>Workshops & Training</h2>
@@ -126,6 +121,7 @@ redirect_from:
 {% endif %}
 
 {% if profile.honors %}
+
 <section class="home-section" id="honors">
   <div class="section-heading section-heading--center">
     <h2>Awards & Honors</h2>
@@ -143,6 +139,7 @@ redirect_from:
 {% endif %}
 
 {% if profile.service %}
+
 <section class="home-section" id="service">
   <div class="section-heading section-heading--center">
     <h2>Academic Service</h2>
@@ -150,25 +147,26 @@ redirect_from:
   </div>
 
   {% if profile.service.reviewing %}
-    <h3 class="subtle-heading">Journal Reviewer</h3>
-    <ul class="plain-list">
+    `<h3 class="subtle-heading">`Journal Reviewer`</h3>`
+    `<ul class="plain-list">`
       {% for journal in profile.service.reviewing %}
-        <li>{{ journal }}</li>
+        `<li>`{{ journal }}`</li>`
       {% endfor %}
-    </ul>
+    `</ul>`
   {% endif %}
 
   {% if profile.service.guest_editor %}
-    <h3 class="subtle-heading">Guest Editor for Special Issues</h3>
-    <ul class="compact-list">
+    `<h3 class="subtle-heading">`Guest Editor for Special Issues`</h3>`
+    `<ul class="compact-list">`
       {% for item in profile.service.guest_editor %}
-        <li>
-          <strong>{{ item.year }}</strong>
-          <span>{{ item.text }}</span>
-        </li>
+        `<li>`
+          `<strong>`{{ item.year }}`</strong>`
+          `<span>`{{ item.text }}
+        `</li>`
       {% endfor %}
-    </ul>
+    `</ul>`
   {% endif %}
+
 </section>
 {% endif %}
 
