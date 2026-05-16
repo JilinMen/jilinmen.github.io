@@ -1,5 +1,8 @@
 # Header navigation. Keep this short so the site stays clean on mobile.
 main:
+  - title: "About"
+    url: /#about
+
   - title: "News"
     url: /#news
 
@@ -9,8 +12,11 @@ main:
   - title: "Apps"
     url: /#apps
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /#presentations
 
   - title: "Service"
     url: /#service
+
+  - title: "Visitor Map"
+    url: /#visitor-map

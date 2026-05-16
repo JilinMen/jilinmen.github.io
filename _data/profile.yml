@@ -28,6 +28,9 @@ apps:
   - name: "PIDL for Water Quality"
     description: "A physics-informed deep learning tool for water quality parameter retrieval from remote sensing data."
     url: "https://huggingface.co/spaces/WaterSensing/PIDL_for_Water_Quality"
+  - name: "OC_3S: Global Water Optical Classification & Scoring System"
+    description: "Water types, optical classification, and spectral scores for global water optical analysis."
+    url: "https://watersensing-oc-3s.hf.space/"
 
 publications:
   - year: "2026"
@@ -115,11 +118,29 @@ publications:
 
 presentations:
   - year: "2026"
-    text: "Invited talk, Inland and water quality monitoring using remote sensing and physics-informed deep learning, The University of Alabama."
+    text: "Men J., Liu H., Lu Y., Miliutina E. A Physics-Informed Differentiable Learning model for Water Quality Parameter Retrieval. AAG. San Francisco, USA. Mar. 20, 2026."
   - year: "2025"
     text: "Cloud-Based Water Quality Mapping with Landsat-8/9 and Sentinel-2 on Google Earth Engine, AGU Fall Meeting, New Orleans."
+  - year: "2025"
+    text: "Miliutina E., Liu H., Men J., Shu S., Beck R. Spatiotemporal dynamics of water quality and trophic state of the African Great Lakes using Sentinel-3 OLCI observations. AGU. New Orleans, USA. Dec. 15-19, 2025."
+  - year: "2025"
+    text: "A Premsagar, Liu H., Miliutina E., Men J., Lu Y., A Palaparthi, T Mandal, Tian D., Pu Y. Evaluating the generalizability and transferability of water quality remote sensing models calibrated with drone-based hyperspectral imagery and dense in situ measurements from an autonomous surface vehicle. AGU. New Orleans, USA. Dec. 15-19, 2025."
+  - year: "2025"
+    text: "Lu Y., Liu H., S Chen, Miliutina E., A Premsagar, M Xu, H Su, Men J. Monitoring dynamic shifts in dissolved organic matter (DOM) using satellite remote sensing at a large river confluence. AGU. New Orleans, USA. Dec. 15-19, 2025."
+  - year: "2025"
+    text: "H Su, Liu H., Wang L., Miliutina E., Men J., Tian D., Lu Y., Shu S., Beck R. Streamlining satellite-based water quality assessment: The RS-WaterQuality Mapper toolbox for QGIS. AGU. New Orleans, USA. Dec. 15-19, 2025."
+  - year: "2025"
+    text: "Men J., Hongxing Liu, Yuehan Lu. Quickly Mapping Water Quality Parameters with Google Earth Engine. CIROH Developers Conference. Burlington, Vermont. May 27-30, 2025."
   - year: "2024"
-    text: "Evaluation of atmospherically corrected aquatic reflectance products from multispectral satellite data, AGU Fall Meeting, Washington, D.C."
+    text: "Men J., Liu H., Miliutina E., Wang L., Lu Y., Su H. Evaluation of atmospherically corrected aquatic reflectance products from multispectral satellite data using global in-situ datasets and ocean color satellite observations. AGU. Washington DC, USA. Dec. 9-13, 2024."
+  - year: "2024"
+    text: "Wang L., Liu H., Tian D., Men J., Bhandari KP., Pandey VP., Shu S., Cohen S. SWOT-enabled Sediment Load Estimation from Satellite Data. AGU. Washington DC, USA. Dec. 9-13, 2024."
+  - year: "2024"
+    text: "Miliutina E., Liu H., Lu Y., Men J., Su H., Wang L., Shu S., Xu M. Spatially Transferable and Temporally Repeatable Remote Sensing Models for River and Lake Water Quality Monitoring. AGU. Washington DC, USA. Dec. 9-13, 2024."
+  - year: "2023"
+    text: "Men J., Tian L., Feng L. Deep learning atmospheric correction for ocean color remote sensing. The 21st China Conference on Aquatic Color Remote Sensing. Wuhan, China. Apr. 4-6, 2023."
+  - year: "2022"
+    text: "Men J., Tian L. Atmospheric correction using deep learning for oceanic waters. Graduate Forum on Ocean Technology. Zhanjiang, China. Dec. 14-15, 2022."
 
 training:
   - date: "2025-07-28"
@@ -151,7 +172,7 @@ service:
     - Journal of Remote Sensing
     - Remote Sensing
     - Ecological Informatics
-    - IEEE JSTARS
+    - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
     - IEEE Geoscience and Remote Sensing Letters
     - Optics Express
     - Water Environment Research

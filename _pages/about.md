@@ -10,9 +10,11 @@ redirect_from:
 
 {% assign profile = site.data.profile %}
 
-<section class="home-intro">
-  <p class="home-kicker">{{ profile.kicker }}</p>
-  <h1>{{ profile.headline }}</h1>
+<section class="home-section home-intro" id="about">
+  <div class="section-heading section-heading--center">
+    <h2>{{ profile.headline | default: "About me" }}</h2>
+    <span class="section-rule" aria-hidden="true"></span>
+  </div>
   <div class="home-summary">
     {{ profile.summary | markdownify }}
   </div>
@@ -20,8 +22,9 @@ redirect_from:
 
 {% if profile.news %}
 <section class="home-section" id="news">
-  <div class="section-heading">
+  <div class="section-heading section-heading--center">
     <h2>News</h2>
+    <span class="section-rule" aria-hidden="true"></span>
   </div>
   <ol class="news-list">
     {% for item in profile.news %}
@@ -36,15 +39,17 @@ redirect_from:
 
 {% if profile.publications %}
 <section class="home-section" id="research">
-  <div class="section-heading">
-    <h2>Selected Publications</h2>
+  <div class="section-heading section-heading--center">
+    <h2>Research</h2>
+    <span class="section-rule" aria-hidden="true"></span>
     {% if site.author.googlescholar %}
       <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>
     {% endif %}
   </div>
 
+  <h3 class="subtle-heading">Selected Publications</h3>
   {% for group in profile.publications %}
-    <h3 class="year-heading">{{ group.year }}</h3>
+    <h3 class="publication-year-heading">{{ group.year }}</h3>
     <div class="publication-list">
       {% for paper in group.items %}
         <article class="publication-item{% if paper.highlight %} publication-item--highlight{% endif %}">
@@ -66,8 +71,9 @@ redirect_from:
 
 {% if profile.apps %}
 <section class="home-section" id="apps">
-  <div class="section-heading">
+  <div class="section-heading section-heading--center">
     <h2>Apps & Tools</h2>
+    <span class="section-rule" aria-hidden="true"></span>
   </div>
   <div class="card-grid">
     {% for app in profile.apps %}
@@ -87,8 +93,9 @@ redirect_from:
 
 {% if profile.presentations %}
 <section class="home-section" id="presentations">
-  <div class="section-heading">
-    <h2>Presentations</h2>
+  <div class="section-heading section-heading--center">
+    <h2>Conference Presentations</h2>
+    <span class="section-rule" aria-hidden="true"></span>
   </div>
   <ul class="compact-list">
     {% for talk in profile.presentations %}
@@ -103,8 +110,9 @@ redirect_from:
 
 {% if profile.training %}
 <section class="home-section" id="training">
-  <div class="section-heading">
+  <div class="section-heading section-heading--center">
     <h2>Workshops & Training</h2>
+    <span class="section-rule" aria-hidden="true"></span>
   </div>
   <ul class="compact-list">
     {% for item in profile.training %}
@@ -119,8 +127,9 @@ redirect_from:
 
 {% if profile.honors %}
 <section class="home-section" id="honors">
-  <div class="section-heading">
-    <h2>Honors</h2>
+  <div class="section-heading section-heading--center">
+    <h2>Awards & Honors</h2>
+    <span class="section-rule" aria-hidden="true"></span>
   </div>
   <div class="timeline-list">
     {% for honor in profile.honors %}
@@ -135,12 +144,13 @@ redirect_from:
 
 {% if profile.service %}
 <section class="home-section" id="service">
-  <div class="section-heading">
-    <h2>Service</h2>
+  <div class="section-heading section-heading--center">
+    <h2>Academic Service</h2>
+    <span class="section-rule" aria-hidden="true"></span>
   </div>
 
   {% if profile.service.reviewing %}
-    <h3 class="subtle-heading">Reviewer for</h3>
+    <h3 class="subtle-heading">Journal Reviewer</h3>
     <ul class="plain-list">
       {% for journal in profile.service.reviewing %}
         <li>{{ journal }}</li>
@@ -149,7 +159,7 @@ redirect_from:
   {% endif %}
 
   {% if profile.service.guest_editor %}
-    <h3 class="subtle-heading">Guest Editor</h3>
+    <h3 class="subtle-heading">Guest Editor for Special Issues</h3>
     <ul class="compact-list">
       {% for item in profile.service.guest_editor %}
         <li>
@@ -161,3 +171,19 @@ redirect_from:
   {% endif %}
 </section>
 {% endif %}
+
+<section class="home-section visitor-map-section" id="visitor-map">
+  <div class="section-heading section-heading--center">
+    <h2>Visitor Map</h2>
+    <span class="section-rule" aria-hidden="true"></span>
+  </div>
+  <div class="visitor-map-frame">
+    <script type="text/javascript" id="clustrmaps"
+            src="https://clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=300&t=tt">
+    </script>
+    <noscript>
+      <a href="https://clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=300&t=tt"
+         target="_blank" rel="noopener">View visitor map</a>
+    </noscript>
+  </div>
+</section>
