@@ -389,6 +389,8 @@ body {
 .publication-list {
   display: grid;
   gap: 0.75rem;
+  max-width: 940px;
+  margin: 0 auto;
 }
 
 .publication-year-heading {
@@ -518,15 +520,17 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 420px;
-  min-height: 250px;
+  max-width: 720px;
+  min-height: 430px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1.25rem;
   border: 1px solid $home-border;
   border-radius: 8px;
   background: #ffffff;
   color: $home-accent;
 
+  canvas,
+  iframe,
   a,
   img {
     max-width: 100%;

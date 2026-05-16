@@ -38,8 +38,15 @@ redirect_from:
 {% endif %}
 
 {% if profile.publications %}
+<section class="home-section" id="research">
+  <div class="section-heading section-heading--center">
+    <h2>Publications</h2>
+    <span class="section-rule" aria-hidden="true"></span>
+    {% if site.author.googlescholar %}
+      <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>
+    {% endif %}
+  </div>
 
-<h3 class="subtle-heading">Publications</h3>
   {% for group in profile.publications %}
     <h3 class="publication-year-heading">{{ group.year }}</h3>
     <div class="publication-list">
@@ -147,24 +154,24 @@ redirect_from:
   </div>
 
   {% if profile.service.reviewing %}
-    `<h3 class="subtle-heading">`Journal Reviewer`</h3>`
-    `<ul class="plain-list">`
+    <h3 class="subtle-heading">Journal Reviewer</h3>
+    <ul class="plain-list">
       {% for journal in profile.service.reviewing %}
-        `<li>`{{ journal }}`</li>`
+        <li>{{ journal }}</li>
       {% endfor %}
-    `</ul>`
+    </ul>
   {% endif %}
 
   {% if profile.service.guest_editor %}
-    `<h3 class="subtle-heading">`Guest Editor for Special Issues`</h3>`
-    `<ul class="compact-list">`
+    <h3 class="subtle-heading">Guest Editor for Special Issues</h3>
+    <ul class="compact-list">
       {% for item in profile.service.guest_editor %}
-        `<li>`
-          `<strong>`{{ item.year }}`</strong>`
-          `<span>`{{ item.text }}
-        `</li>`
+        <li>
+          <strong>{{ item.year }}</strong>
+          <span>{{ item.text }}</span>
+        </li>
       {% endfor %}
-    `</ul>`
+    </ul>
   {% endif %}
 
 </section>
@@ -177,10 +184,10 @@ redirect_from:
   </div>
   <div class="visitor-map-frame">
     <script type="text/javascript" id="clustrmaps"
-            src="https://clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=300&t=tt">
+            src="https://clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=620&t=tt">
     </script>
     <noscript>
-      <a href="https://clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=300&t=tt"
+      <a href="https://clustrmaps.com/map_v2.js?d=S_BcfnqEHHFLFetUdLEM2o_pLXucxLV_u_Lsn-B9GIU&cl=00cc66&w=620&t=tt"
          target="_blank" rel="noopener">View visitor map</a>
     </noscript>
   </div>
