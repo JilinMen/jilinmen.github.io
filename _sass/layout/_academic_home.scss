@@ -2,6 +2,8 @@
    Academic home page
    ========================================================================== */
 
+$home-muted-text: #3d4a40;
+
 html {
   scroll-behavior: smooth;
 }
@@ -171,7 +173,7 @@ body {
 
 .author__bio {
   margin: 0.35rem 0;
-  color: var(--global-text-color-light);
+  color: $home-muted-text;
   font-size: 0.92rem;
   font-style: normal;
 }
@@ -215,7 +217,7 @@ body {
 
 .sidebar .author__desktop {
   display: block;
-  color: var(--global-text-color-light);
+  color: $home-muted-text;
   font-size: 0.92rem;
   line-height: 1.45;
 }
@@ -376,7 +378,7 @@ body {
 
   p {
     margin: 0;
-    color: var(--global-text-color-light);
+    color: $home-muted-text;
     font-size: 0.9rem;
     line-height: 1.6;
   }
@@ -388,7 +390,7 @@ body {
 
 .year-heading {
   margin: 1.4rem 0 0.75rem;
-  color: var(--global-text-color-light);
+  color: $home-muted-text;
   font-size: 1rem;
 }
 
@@ -409,7 +411,7 @@ body {
 
   p {
     margin: 0 0 0.4rem;
-    color: var(--global-text-color-light);
+    color: $home-muted-text;
     font-size: 0.88rem;
     line-height: 1.55;
   }
@@ -511,7 +513,7 @@ body {
 
 .subtle-heading {
   margin: 1rem 0 0.65rem;
-  color: var(--global-text-color-light);
+  color: $home-muted-text;
   font-size: 0.95rem;
 }
 
@@ -520,7 +522,7 @@ body {
 }
 
 .author__bio {
-  color: var(--global-text-color-light);
+  color: $home-muted-text;
 }
 
 html[data-theme="dark"] {
